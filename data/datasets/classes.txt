@@ -1,0 +1,4 @@
+objects model:
+0 -> zapato(shoes)
+1 -> reloj(clock)
+2 -> telefono (phone)
